@@ -1,0 +1,6 @@
+2023/07/23-13:49:58.017 a503 Creating DB /Users/rodrigogarcia/Library/Application Support/Vivaldi/Default/IndexedDB/https_firebase-dot-devsite-v2-prod.appspot.com_0.indexeddb.leveldb since it was missing.
+2023/07/23-13:49:58.034 a503 Reusing MANIFEST /Users/rodrigogarcia/Library/Application Support/Vivaldi/Default/IndexedDB/https_firebase-dot-devsite-v2-prod.appspot.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/07/23-13:50:55.794 a003 Level-0 table #5: started
+2023/07/23-13:50:55.800 a003 Level-0 table #5: 1278 bytes OK
+2023/07/23-13:50:55.808 a003 Delete type=0 #3
+2023/07/23-13:50:55.808 a003 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

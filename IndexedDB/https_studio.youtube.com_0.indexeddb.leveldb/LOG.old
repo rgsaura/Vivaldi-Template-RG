@@ -1,0 +1,6 @@
+2023/09/08-04:37:07.839 a203 Creating DB /Users/rodrigogarcia/Library/Application Support/Vivaldi/Default/IndexedDB/https_studio.youtube.com_0.indexeddb.leveldb since it was missing.
+2023/09/08-04:37:07.852 a203 Reusing MANIFEST /Users/rodrigogarcia/Library/Application Support/Vivaldi/Default/IndexedDB/https_studio.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/09/08-04:39:12.916 9e03 Level-0 table #5: started
+2023/09/08-04:39:12.920 9e03 Level-0 table #5: 2530 bytes OK
+2023/09/08-04:39:12.931 9e03 Delete type=0 #3
+2023/09/08-04:39:12.932 9e03 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

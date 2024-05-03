@@ -1,0 +1,17 @@
+2023/10/05-02:28:52.556 9903 Reusing MANIFEST /Users/rodrigogarcia/Library/Application Support/Vivaldi/Default/IndexedDB/https_docs.ansible-semaphore.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/10/05-02:28:52.556 9903 Recovering log #6
+2023/10/05-02:28:52.557 9903 Reusing old log /Users/rodrigogarcia/Library/Application Support/Vivaldi/Default/IndexedDB/https_docs.ansible-semaphore.com_0.indexeddb.leveldb/000006.log 
+2023/10/05-02:28:52.734 ec03 Level-0 table #11: started
+2023/10/05-02:28:52.739 ec03 Level-0 table #11: 607 bytes OK
+2023/10/05-02:28:52.751 ec03 Delete type=0 #6
+2023/10/05-02:28:52.751 9903 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/10/05-02:35:18.490 b603 Level-0 table #13: started
+2023/10/05-02:35:18.499 b603 Level-0 table #13: 1584 bytes OK
+2023/10/05-02:35:18.511 b603 Delete type=0 #10
+2023/10/05-02:35:18.511 9f03 Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at '\x00\x06\x00\x00\x05' @ 267 : 1
+2023/10/05-02:35:18.511 9f03 Compacting 1@0 + 1@1 files
+2023/10/05-02:35:18.516 9f03 Generated table #14@0: 30 keys, 1234 bytes
+2023/10/05-02:35:18.516 9f03 Compacted 1@0 + 1@1 files => 1234 bytes
+2023/10/05-02:35:18.524 9f03 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/10/05-02:35:18.524 9f03 Delete type=2 #13
+2023/10/05-02:35:18.524 9f03 Manual compaction at level-0 from '\x00\x06\x00\x00\x05' @ 267 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)

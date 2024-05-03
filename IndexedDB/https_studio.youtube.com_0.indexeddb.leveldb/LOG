@@ -1,0 +1,15 @@
+2023/09/20-19:08:21.448 a403 Reusing MANIFEST /Users/rodrigogarcia/Library/Application Support/Vivaldi/Default/IndexedDB/https_studio.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/09/20-19:08:21.448 a403 Recovering log #4
+2023/09/20-19:08:21.448 a403 Reusing old log /Users/rodrigogarcia/Library/Application Support/Vivaldi/Default/IndexedDB/https_studio.youtube.com_0.indexeddb.leveldb/000004.log 
+2023/09/20-19:24:07.902 ef03 Level-0 table #8: started
+2023/09/20-19:24:07.907 ef03 Level-0 table #8: 209 bytes OK
+2023/09/20-19:24:07.915 ef03 Delete type=0 #4
+2023/09/20-19:24:07.915 ef03 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/09/20-19:24:07.915 ef03 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x06' @ 173 : 1
+2023/09/20-19:24:07.915 ef03 Compacting 1@1 + 1@2 files
+2023/09/20-19:24:07.920 ef03 Generated table #9@1: 51 keys, 1078 bytes
+2023/09/20-19:24:07.920 ef03 Compacted 1@1 + 1@2 files => 1078 bytes
+2023/09/20-19:24:07.928 ef03 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/09/20-19:24:07.928 ef03 Delete type=2 #5
+2023/09/20-19:24:07.928 ef03 Delete type=2 #8
+2023/09/20-19:24:07.929 ef03 Manual compaction at level-1 from '\x00\x00\x00\x00\x06' @ 173 : 1 .. (end); will stop at (end)

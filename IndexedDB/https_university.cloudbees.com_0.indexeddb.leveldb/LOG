@@ -1,0 +1,7 @@
+2023/09/23-02:32:58.977 a503 Reusing MANIFEST /Users/rodrigogarcia/Library/Application Support/Vivaldi/Default/IndexedDB/https_university.cloudbees.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/09/23-02:32:58.977 a503 Recovering log #36
+2023/09/23-02:32:58.977 a503 Reusing old log /Users/rodrigogarcia/Library/Application Support/Vivaldi/Default/IndexedDB/https_university.cloudbees.com_0.indexeddb.leveldb/000036.log 
+2023/09/23-02:33:05.860 f103 Level-0 table #42: started
+2023/09/23-02:33:05.864 f103 Level-0 table #42: 549 bytes OK
+2023/09/23-02:33:05.872 f103 Delete type=0 #36
+2023/09/23-02:33:05.872 a503 Manual compaction at level-0 from '\x00\x0a\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0b\x00\x00\x00' @ 0 : 0; will stop at (end)

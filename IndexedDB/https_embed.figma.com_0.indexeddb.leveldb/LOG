@@ -1,0 +1,6 @@
+2023/09/22-21:04:35.961 a303 Creating DB /Users/rodrigogarcia/Library/Application Support/Vivaldi/Default/IndexedDB/https_embed.figma.com_0.indexeddb.leveldb since it was missing.
+2023/09/22-21:04:35.976 a303 Reusing MANIFEST /Users/rodrigogarcia/Library/Application Support/Vivaldi/Default/IndexedDB/https_embed.figma.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/09/22-21:04:43.024 8a03 Level-0 table #5: started
+2023/09/22-21:04:43.028 8a03 Level-0 table #5: 3898 bytes OK
+2023/09/22-21:04:43.037 8a03 Delete type=0 #3
+2023/09/22-21:04:43.037 8a03 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,6 @@
+2023/08/25-17:03:06.968 8403 Creating DB /Users/rodrigogarcia/Library/Application Support/Vivaldi/Default/IndexedDB/https_linuxhint.com_0.indexeddb.leveldb since it was missing.
+2023/08/25-17:03:06.984 8403 Reusing MANIFEST /Users/rodrigogarcia/Library/Application Support/Vivaldi/Default/IndexedDB/https_linuxhint.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/08/25-17:03:09.022 a007 Level-0 table #5: started
+2023/08/25-17:03:09.027 a007 Level-0 table #5: 2140 bytes OK
+2023/08/25-17:03:09.036 a007 Delete type=0 #3
+2023/08/25-17:03:09.036 a007 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

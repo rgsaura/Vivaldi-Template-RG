@@ -1,0 +1,7 @@
+2023/09/23-00:28:31.563 a303 Reusing MANIFEST /Users/rodrigogarcia/Library/Application Support/Vivaldi/Default/IndexedDB/https_accounts.skilljar.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/09/23-00:28:31.563 a303 Recovering log #4
+2023/09/23-00:28:31.564 a303 Reusing old log /Users/rodrigogarcia/Library/Application Support/Vivaldi/Default/IndexedDB/https_accounts.skilljar.com_0.indexeddb.leveldb/000004.log 
+2023/09/23-00:28:31.806 f203 Level-0 table #8: started
+2023/09/23-00:28:31.810 f203 Level-0 table #8: 562 bytes OK
+2023/09/23-00:28:31.818 f203 Delete type=0 #4
+2023/09/23-00:28:31.819 a303 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)

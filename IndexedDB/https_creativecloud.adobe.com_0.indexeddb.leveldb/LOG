@@ -1,0 +1,6 @@
+2023/07/26-23:27:58.735 f503 Creating DB /Users/rodrigogarcia/Library/Application Support/Vivaldi/Default/IndexedDB/https_creativecloud.adobe.com_0.indexeddb.leveldb since it was missing.
+2023/07/26-23:27:58.748 f503 Reusing MANIFEST /Users/rodrigogarcia/Library/Application Support/Vivaldi/Default/IndexedDB/https_creativecloud.adobe.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/07/26-23:58:45.070 9e03 Level-0 table #5: started
+2023/07/26-23:58:45.075 9e03 Level-0 table #5: 2266 bytes OK
+2023/07/26-23:58:45.083 9e03 Delete type=0 #3
+2023/07/26-23:58:45.083 9e03 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

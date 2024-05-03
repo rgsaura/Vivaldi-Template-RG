@@ -1,0 +1,7 @@
+2023/09/23-17:34:16.879 8803 Reusing MANIFEST /Users/rodrigogarcia/Library/Application Support/Vivaldi/Default/IndexedDB/https_ace.aviatrix.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/09/23-17:34:16.879 8803 Recovering log #85
+2023/09/23-17:34:16.879 8803 Reusing old log /Users/rodrigogarcia/Library/Application Support/Vivaldi/Default/IndexedDB/https_ace.aviatrix.com_0.indexeddb.leveldb/000085.log 
+2023/09/23-17:34:17.699 b903 Level-0 table #91: started
+2023/09/23-17:34:17.708 b903 Level-0 table #91: 531 bytes OK
+2023/09/23-17:34:17.717 b903 Delete type=0 #85
+2023/09/23-17:34:17.717 8803 Manual compaction at level-0 from '\x00\x16\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x17\x00\x00\x00' @ 0 : 0; will stop at (end)

@@ -1,0 +1,6 @@
+2023/07/23-15:10:21.557 a503 Creating DB /Users/rodrigogarcia/Library/Application Support/Vivaldi/Default/IndexedDB/https_indify.co_0.indexeddb.leveldb since it was missing.
+2023/07/23-15:10:21.571 a503 Reusing MANIFEST /Users/rodrigogarcia/Library/Application Support/Vivaldi/Default/IndexedDB/https_indify.co_0.indexeddb.leveldb/MANIFEST-000001
+2023/07/23-15:13:02.037 a003 Level-0 table #5: started
+2023/07/23-15:13:02.042 a003 Level-0 table #5: 1522 bytes OK
+2023/07/23-15:13:02.050 a003 Delete type=0 #3
+2023/07/23-15:13:02.050 a003 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

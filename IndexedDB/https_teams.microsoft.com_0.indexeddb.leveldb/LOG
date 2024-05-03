@@ -1,0 +1,6 @@
+2023/09/27-10:31:34.691 a203 Creating DB /Users/rodrigogarcia/Library/Application Support/Vivaldi/Default/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb since it was missing.
+2023/09/27-10:31:34.710 a203 Reusing MANIFEST /Users/rodrigogarcia/Library/Application Support/Vivaldi/Default/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/09/27-10:31:56.918 a203 Level-0 table #5: started
+2023/09/27-10:31:56.923 a203 Level-0 table #5: 34183 bytes OK
+2023/09/27-10:31:56.932 a203 Delete type=0 #3
+2023/09/27-10:31:56.933 a203 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

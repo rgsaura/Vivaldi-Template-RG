@@ -1,0 +1,6 @@
+2023/09/10-22:59:12.216 a203 Creating DB /Users/rodrigogarcia/Library/Application Support/Vivaldi/Default/IndexedDB/https_cabify.com_0.indexeddb.leveldb since it was missing.
+2023/09/10-22:59:12.228 a203 Reusing MANIFEST /Users/rodrigogarcia/Library/Application Support/Vivaldi/Default/IndexedDB/https_cabify.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/09/10-22:59:14.285 a203 Level-0 table #5: started
+2023/09/10-22:59:14.290 a203 Level-0 table #5: 4289 bytes OK
+2023/09/10-22:59:14.303 a203 Delete type=0 #3
+2023/09/10-22:59:14.304 a203 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

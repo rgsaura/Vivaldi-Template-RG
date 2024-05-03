@@ -1,0 +1,7 @@
+2023/09/11-15:32:03.048 a403 Reusing MANIFEST /Users/rodrigogarcia/Library/Application Support/Vivaldi/Default/IndexedDB/https_www.iblue.team_0.indexeddb.leveldb/MANIFEST-000001
+2023/09/11-15:32:03.048 a403 Recovering log #4
+2023/09/11-15:32:03.049 a403 Reusing old log /Users/rodrigogarcia/Library/Application Support/Vivaldi/Default/IndexedDB/https_www.iblue.team_0.indexeddb.leveldb/000004.log 
+2023/09/11-15:32:03.537 f403 Level-0 table #8: started
+2023/09/11-15:32:03.541 f403 Level-0 table #8: 5195 bytes OK
+2023/09/11-15:32:03.549 f403 Delete type=0 #4
+2023/09/11-15:32:03.549 a403 Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)

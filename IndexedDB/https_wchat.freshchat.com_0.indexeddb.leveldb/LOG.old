@@ -1,0 +1,6 @@
+2023/09/19-17:19:47.597 a203 Creating DB /Users/rodrigogarcia/Library/Application Support/Vivaldi/Default/IndexedDB/https_wchat.freshchat.com_0.indexeddb.leveldb since it was missing.
+2023/09/19-17:19:47.614 a203 Reusing MANIFEST /Users/rodrigogarcia/Library/Application Support/Vivaldi/Default/IndexedDB/https_wchat.freshchat.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/09/19-17:21:08.495 8903 Level-0 table #5: started
+2023/09/19-17:21:08.504 8903 Level-0 table #5: 162288 bytes OK
+2023/09/19-17:21:08.515 8903 Delete type=0 #3
+2023/09/19-17:21:08.515 8903 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

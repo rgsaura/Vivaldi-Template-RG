@@ -1,0 +1,6 @@
+2023/09/11-22:09:51.738 a403 Creating DB /Users/rodrigogarcia/Library/Application Support/Vivaldi/Default/IndexedDB/https_www.iamcybersafe.org_0.indexeddb.leveldb since it was missing.
+2023/09/11-22:09:51.750 a403 Reusing MANIFEST /Users/rodrigogarcia/Library/Application Support/Vivaldi/Default/IndexedDB/https_www.iamcybersafe.org_0.indexeddb.leveldb/MANIFEST-000001
+2023/09/11-22:10:11.980 f403 Level-0 table #5: started
+2023/09/11-22:10:11.985 f403 Level-0 table #5: 1122 bytes OK
+2023/09/11-22:10:11.994 f403 Delete type=0 #3
+2023/09/11-22:10:11.994 f403 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,15 @@
+2023/09/28-19:44:00.993 8a03 Reusing MANIFEST /Users/rodrigogarcia/Library/Application Support/Vivaldi/Default/IndexedDB/https_www.photopea.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/09/28-19:44:00.993 8a03 Recovering log #11
+2023/09/28-19:44:00.993 8a03 Reusing old log /Users/rodrigogarcia/Library/Application Support/Vivaldi/Default/IndexedDB/https_www.photopea.com_0.indexeddb.leveldb/000011.log 
+2023/09/28-19:46:04.231 8a03 Level-0 table #16: started
+2023/09/28-19:46:04.235 8a03 Level-0 table #16: 226 bytes OK
+2023/09/28-19:46:04.244 8a03 Delete type=0 #11
+2023/09/28-19:46:04.245 8a03 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/09/28-19:46:04.245 8a03 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x06' @ 321 : 1
+2023/09/28-19:46:04.245 8a03 Compacting 1@1 + 1@2 files
+2023/09/28-19:46:04.249 8a03 Generated table #17@1: 21 keys, 509 bytes
+2023/09/28-19:46:04.249 8a03 Compacted 1@1 + 1@2 files => 509 bytes
+2023/09/28-19:46:04.258 8a03 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/09/28-19:46:04.258 8a03 Delete type=2 #16
+2023/09/28-19:46:04.258 8a03 Delete type=2 #13
+2023/09/28-19:46:04.259 8a03 Manual compaction at level-1 from '\x00\x00\x00\x00\x06' @ 321 : 1 .. (end); will stop at (end)

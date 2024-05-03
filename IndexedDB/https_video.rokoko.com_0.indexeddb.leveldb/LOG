@@ -1,0 +1,6 @@
+2023/07/23-20:25:35.359 a303 Creating DB /Users/rodrigogarcia/Library/Application Support/Vivaldi/Default/IndexedDB/https_video.rokoko.com_0.indexeddb.leveldb since it was missing.
+2023/07/23-20:25:35.371 a303 Reusing MANIFEST /Users/rodrigogarcia/Library/Application Support/Vivaldi/Default/IndexedDB/https_video.rokoko.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/07/23-21:08:51.858 f003 Level-0 table #5: started
+2023/07/23-21:08:51.864 f003 Level-0 table #5: 9772 bytes OK
+2023/07/23-21:08:51.872 f003 Delete type=0 #3
+2023/07/23-21:08:51.873 a303 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

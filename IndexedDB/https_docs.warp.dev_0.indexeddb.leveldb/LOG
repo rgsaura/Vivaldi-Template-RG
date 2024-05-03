@@ -1,0 +1,7 @@
+2023/10/06-14:11:07.562 a203 Reusing MANIFEST /Users/rodrigogarcia/Library/Application Support/Vivaldi/Default/IndexedDB/https_docs.warp.dev_0.indexeddb.leveldb/MANIFEST-000001
+2023/10/06-14:11:07.562 a203 Recovering log #6
+2023/10/06-14:11:07.562 a203 Reusing old log /Users/rodrigogarcia/Library/Application Support/Vivaldi/Default/IndexedDB/https_docs.warp.dev_0.indexeddb.leveldb/000006.log 
+2023/10/06-14:11:08.095 15e03 Level-0 table #11: started
+2023/10/06-14:11:08.105 15e03 Level-0 table #11: 723 bytes OK
+2023/10/06-14:11:08.118 15e03 Delete type=0 #6
+2023/10/06-14:11:08.118 9f03 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)

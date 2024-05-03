@@ -1,0 +1,6 @@
+2023/09/17-15:12:30.232 8403 Creating DB /Users/rodrigogarcia/Library/Application Support/Vivaldi/Default/IndexedDB/https_lpcdn.lpsnmedia.net_0.indexeddb.leveldb since it was missing.
+2023/09/17-15:12:30.245 8403 Reusing MANIFEST /Users/rodrigogarcia/Library/Application Support/Vivaldi/Default/IndexedDB/https_lpcdn.lpsnmedia.net_0.indexeddb.leveldb/MANIFEST-000001
+2023/09/17-15:13:25.447 a203 Level-0 table #5: started
+2023/09/17-15:13:25.452 a203 Level-0 table #5: 4639 bytes OK
+2023/09/17-15:13:25.462 a203 Delete type=0 #3
+2023/09/17-15:13:25.462 a203 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

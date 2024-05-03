@@ -1,0 +1,6 @@
+2023/10/11-01:22:19.174 a203 Creating DB /Users/rodrigogarcia/Library/Application Support/Vivaldi/Default/IndexedDB/https_meetings.hubspot.com_0.indexeddb.leveldb since it was missing.
+2023/10/11-01:22:19.187 a203 Reusing MANIFEST /Users/rodrigogarcia/Library/Application Support/Vivaldi/Default/IndexedDB/https_meetings.hubspot.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/10/11-01:22:21.218 a003 Level-0 table #5: started
+2023/10/11-01:22:21.223 a003 Level-0 table #5: 883 bytes OK
+2023/10/11-01:22:21.232 a003 Delete type=0 #3
+2023/10/11-01:22:21.233 a003 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

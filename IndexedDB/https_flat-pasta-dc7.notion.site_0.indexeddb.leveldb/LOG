@@ -1,0 +1,18 @@
+2023/09/10-18:53:00.773 a603 Creating DB /Users/rodrigogarcia/Library/Application Support/Vivaldi/Default/IndexedDB/https_flat-pasta-dc7.notion.site_0.indexeddb.leveldb since it was missing.
+2023/09/10-18:53:00.785 a603 Reusing MANIFEST /Users/rodrigogarcia/Library/Application Support/Vivaldi/Default/IndexedDB/https_flat-pasta-dc7.notion.site_0.indexeddb.leveldb/MANIFEST-000001
+2023/09/10-18:53:00.886 f303 Level-0 table #5: started
+2023/09/10-18:53:00.890 f303 Level-0 table #5: 569 bytes OK
+2023/09/10-18:53:00.898 f303 Delete type=0 #3
+2023/09/10-18:53:00.898 a603 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/09/10-19:10:39.869 f303 Level-0 table #7: started
+2023/09/10-19:10:39.873 f303 Level-0 table #7: 2390 bytes OK
+2023/09/10-19:10:39.882 f303 Delete type=0 #4
+2023/09/10-19:10:39.882 f303 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/09/10-19:10:39.883 f303 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x00\x00\xc8\x0b\x00T\x00r\x00a\x00n\x00s\x00a\x00c\x00t\x00i\x00o\x00n' @ 89 : 1
+2023/09/10-19:10:39.883 f303 Compacting 1@1 + 1@2 files
+2023/09/10-19:10:39.887 f303 Generated table #8@1: 56 keys, 1061 bytes
+2023/09/10-19:10:39.887 f303 Compacted 1@1 + 1@2 files => 1061 bytes
+2023/09/10-19:10:39.895 f303 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/09/10-19:10:39.895 f303 Delete type=2 #7
+2023/09/10-19:10:39.895 f303 Delete type=2 #5
+2023/09/10-19:10:39.896 f303 Manual compaction at level-1 from '\x00\x02\x00\x00\xc8\x0b\x00T\x00r\x00a\x00n\x00s\x00a\x00c\x00t\x00i\x00o\x00n' @ 89 : 1 .. (end); will stop at (end)

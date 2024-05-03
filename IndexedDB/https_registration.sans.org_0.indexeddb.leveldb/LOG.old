@@ -1,0 +1,6 @@
+2023/09/21-03:48:09.013 a403 Creating DB /Users/rodrigogarcia/Library/Application Support/Vivaldi/Default/IndexedDB/https_registration.sans.org_0.indexeddb.leveldb since it was missing.
+2023/09/21-03:48:09.027 a403 Reusing MANIFEST /Users/rodrigogarcia/Library/Application Support/Vivaldi/Default/IndexedDB/https_registration.sans.org_0.indexeddb.leveldb/MANIFEST-000001
+2023/09/21-03:48:12.378 a403 Level-0 table #5: started
+2023/09/21-03:48:12.383 a403 Level-0 table #5: 308210 bytes OK
+2023/09/21-03:48:12.391 a403 Delete type=0 #3
+2023/09/21-03:48:12.391 a403 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

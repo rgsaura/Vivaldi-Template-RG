@@ -1,0 +1,6 @@
+2023/10/10-01:31:56.537 f003 Creating DB /Users/rodrigogarcia/Library/Application Support/Vivaldi/Default/IndexedDB/https_sale.alibaba.com_0.indexeddb.leveldb since it was missing.
+2023/10/10-01:31:56.550 f003 Reusing MANIFEST /Users/rodrigogarcia/Library/Application Support/Vivaldi/Default/IndexedDB/https_sale.alibaba.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/10/10-01:32:48.508 8703 Level-0 table #5: started
+2023/10/10-01:32:48.513 8703 Level-0 table #5: 20619 bytes OK
+2023/10/10-01:32:48.522 8703 Delete type=0 #3
+2023/10/10-01:32:48.524 8703 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

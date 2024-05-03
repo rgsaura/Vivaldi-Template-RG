@@ -1,0 +1,15 @@
+2023/11/20-12:53:01.429 a203 Reusing MANIFEST /Users/rodrigogarcia/Library/Application Support/Vivaldi/Default/IndexedDB/https_www.patreon.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/11/20-12:53:01.430 a203 Recovering log #4
+2023/11/20-12:53:01.430 a203 Reusing old log /Users/rodrigogarcia/Library/Application Support/Vivaldi/Default/IndexedDB/https_www.patreon.com_0.indexeddb.leveldb/000004.log 
+2023/11/20-13:52:59.797 a203 Level-0 table #8: started
+2023/11/20-13:52:59.802 a203 Level-0 table #8: 209 bytes OK
+2023/11/20-13:52:59.812 a203 Delete type=0 #4
+2023/11/20-13:52:59.813 a203 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/11/20-13:52:59.813 a203 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x06' @ 228 : 1
+2023/11/20-13:52:59.813 a203 Compacting 1@1 + 1@2 files
+2023/11/20-13:52:59.818 a203 Generated table #9@1: 69 keys, 1214 bytes
+2023/11/20-13:52:59.818 a203 Compacted 1@1 + 1@2 files => 1214 bytes
+2023/11/20-13:52:59.826 a203 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/11/20-13:52:59.826 a203 Delete type=2 #5
+2023/11/20-13:52:59.827 a203 Delete type=2 #8
+2023/11/20-13:52:59.827 a203 Manual compaction at level-1 from '\x00\x00\x00\x00\x06' @ 228 : 1 .. (end); will stop at (end)

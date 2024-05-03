@@ -1,0 +1,6 @@
+2023/09/23-00:02:14.449 a303 Creating DB /Users/rodrigogarcia/Library/Application Support/Vivaldi/Default/IndexedDB/https_testautomationu.applitools.com_0.indexeddb.leveldb since it was missing.
+2023/09/23-00:02:14.461 a303 Reusing MANIFEST /Users/rodrigogarcia/Library/Application Support/Vivaldi/Default/IndexedDB/https_testautomationu.applitools.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/09/23-00:27:11.272 8a03 Level-0 table #5: started
+2023/09/23-00:27:11.276 8a03 Level-0 table #5: 1774 bytes OK
+2023/09/23-00:27:11.286 8a03 Delete type=0 #3
+2023/09/23-00:27:11.286 8a03 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

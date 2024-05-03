@@ -1,0 +1,51 @@
+[ {
+   "children": [ {
+      "children": [ {
+         "containerguid": "",
+         "createtime": 1.702658161792517e+12,
+         "filename": "2023-12-15_17_36_01.bin",
+         "groupnames": {
+         },
+         "guid": "a44a3c07-2fac-4598-9fb7-d1ee847aba54",
+         "modifytime": 1.702658161792517e+12,
+         "quarantinecount": 0,
+         "tabscount": 13,
+         "title": "Data Center",
+         "type": 0,
+         "windowscount": 1,
+         "workspaces": [  ]
+      }, {
+         "containerguid": "",
+         "createtime": 1.713330467144775e+12,
+         "filename": "2024-04-17_07_07_47.bin",
+         "groupnames": {
+         },
+         "guid": "9edf741f-23b2-4949-bcea-bd367e35ac91",
+         "modifytime": 1.713330467144775e+12,
+         "quarantinecount": 0,
+         "tabscount": 3,
+         "title": "Swift",
+         "type": 0,
+         "windowscount": 1,
+         "workspaces": [  ]
+      }, {
+         "containerguid": "",
+         "createtime": 1.695027685245273e+12,
+         "filename": "2023-09-18_11_01_25.bin",
+         "groupnames": {
+         },
+         "guid": "4a75195e-48b4-4985-b436-962b30ca2e70",
+         "modifytime": 1.695027685245273e+12,
+         "quarantinecount": 0,
+         "tabscount": 3,
+         "title": "prueba",
+         "type": 0,
+         "windowscount": 1,
+         "workspaces": [  ]
+      } ],
+      "guid": "00000000-0000-5000-a000-000000000003",
+      "type": 1
+   } ],
+   "guid": "00000000-0000-5000-a000-000000000002",
+   "type": 1
+} ]

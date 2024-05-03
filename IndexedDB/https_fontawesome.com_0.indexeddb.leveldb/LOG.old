@@ -1,0 +1,15 @@
+2023/09/14-02:02:31.786 a503 Reusing MANIFEST /Users/rodrigogarcia/Library/Application Support/Vivaldi/Default/IndexedDB/https_fontawesome.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/09/14-02:02:31.786 a503 Recovering log #4
+2023/09/14-02:02:31.787 a503 Reusing old log /Users/rodrigogarcia/Library/Application Support/Vivaldi/Default/IndexedDB/https_fontawesome.com_0.indexeddb.leveldb/000004.log 
+2023/09/14-02:02:52.823 b803 Level-0 table #8: started
+2023/09/14-02:02:52.828 b803 Level-0 table #8: 1238 bytes OK
+2023/09/14-02:02:52.836 b803 Delete type=0 #4
+2023/09/14-02:02:52.837 b803 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/09/14-02:02:52.837 b803 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x05\x00s\x00t\x00a\x00t\x00e' @ 177 : 1
+2023/09/14-02:02:52.837 b803 Compacting 1@1 + 1@2 files
+2023/09/14-02:02:52.841 b803 Generated table #9@1: 54 keys, 1130 bytes
+2023/09/14-02:02:52.841 b803 Compacted 1@1 + 1@2 files => 1130 bytes
+2023/09/14-02:02:52.849 b803 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/09/14-02:02:52.849 b803 Delete type=2 #5
+2023/09/14-02:02:52.849 b803 Delete type=2 #8
+2023/09/14-02:02:52.850 b803 Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x05\x00s\x00t\x00a\x00t\x00e' @ 177 : 1 .. (end); will stop at (end)

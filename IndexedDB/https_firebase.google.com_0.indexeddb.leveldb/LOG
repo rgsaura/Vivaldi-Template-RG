@@ -1,0 +1,13 @@
+2023/08/05-20:02:08.324 a403 Reusing MANIFEST /Users/rodrigogarcia/Library/Application Support/Vivaldi/Default/IndexedDB/https_firebase.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/08/05-20:02:08.324 a403 Recovering log #6
+2023/08/05-20:02:08.324 a403 Reusing old log /Users/rodrigogarcia/Library/Application Support/Vivaldi/Default/IndexedDB/https_firebase.google.com_0.indexeddb.leveldb/000006.log 
+2023/08/05-20:02:08.580 f203 Level-0 table #10: started
+2023/08/05-20:02:08.586 f203 Level-0 table #10: 1454 bytes OK
+2023/08/05-20:02:08.616 f203 Delete type=0 #6
+2023/08/05-20:02:08.617 f203 Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at '\x00\x06\x00\x00\x05' @ 307 : 1
+2023/08/05-20:02:08.617 f203 Compacting 1@0 + 1@1 files
+2023/08/05-20:02:08.622 f203 Generated table #11@0: 126 keys, 2239 bytes
+2023/08/05-20:02:08.622 f203 Compacted 1@0 + 1@1 files => 2239 bytes
+2023/08/05-20:02:08.639 f203 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/08/05-20:02:08.640 f203 Delete type=2 #10
+2023/08/05-20:02:08.640 a403 Manual compaction at level-0 from '\x00\x06\x00\x00\x05' @ 307 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)

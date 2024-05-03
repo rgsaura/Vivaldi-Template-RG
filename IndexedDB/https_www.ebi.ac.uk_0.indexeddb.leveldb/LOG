@@ -1,0 +1,6 @@
+2023/10/07-14:57:08.956 8e03 Creating DB /Users/rodrigogarcia/Library/Application Support/Vivaldi/Default/IndexedDB/https_www.ebi.ac.uk_0.indexeddb.leveldb since it was missing.
+2023/10/07-14:57:08.969 8e03 Reusing MANIFEST /Users/rodrigogarcia/Library/Application Support/Vivaldi/Default/IndexedDB/https_www.ebi.ac.uk_0.indexeddb.leveldb/MANIFEST-000001
+2023/10/07-14:57:51.449 8e03 Level-0 table #5: started
+2023/10/07-14:57:51.454 8e03 Level-0 table #5: 1847 bytes OK
+2023/10/07-14:57:51.463 8e03 Delete type=0 #3
+2023/10/07-14:57:51.463 8e03 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,10 @@
+2023/07/23-13:49:56.253 a503 Creating DB /Users/rodrigogarcia/Library/Application Support/Vivaldi/Default/IndexedDB/https_firebase.google.com_0.indexeddb.leveldb since it was missing.
+2023/07/23-13:49:56.269 a503 Reusing MANIFEST /Users/rodrigogarcia/Library/Application Support/Vivaldi/Default/IndexedDB/https_firebase.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/07/23-13:49:56.490 f503 Level-0 table #5: started
+2023/07/23-13:49:56.508 f503 Level-0 table #5: 1184 bytes OK
+2023/07/23-13:49:56.524 f503 Delete type=0 #3
+2023/07/23-13:49:56.525 a503 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/07/23-13:50:22.388 a003 Level-0 table #7: started
+2023/07/23-13:50:22.403 a003 Level-0 table #7: 3570 bytes OK
+2023/07/23-13:50:22.412 a003 Delete type=0 #4
+2023/07/23-13:50:22.413 a503 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)

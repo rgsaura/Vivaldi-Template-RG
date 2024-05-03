@@ -1,0 +1,7 @@
+2023/09/21-03:48:12.984 8b03 Reusing MANIFEST /Users/rodrigogarcia/Library/Application Support/Vivaldi/Default/IndexedDB/https_registration.sans.org_0.indexeddb.leveldb/MANIFEST-000001
+2023/09/21-03:48:12.984 8b03 Recovering log #4
+2023/09/21-03:48:12.984 8b03 Reusing old log /Users/rodrigogarcia/Library/Application Support/Vivaldi/Default/IndexedDB/https_registration.sans.org_0.indexeddb.leveldb/000004.log 
+2023/09/21-03:48:14.053 ef03 Level-0 table #8: started
+2023/09/21-03:48:14.068 ef03 Level-0 table #8: 645039 bytes OK
+2023/09/21-03:48:14.076 ef03 Delete type=0 #4
+2023/09/21-03:48:14.076 ef03 Manual compaction at level-0 from '\x00\x09\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0a\x00\x00\x00' @ 0 : 0; will stop at (end)

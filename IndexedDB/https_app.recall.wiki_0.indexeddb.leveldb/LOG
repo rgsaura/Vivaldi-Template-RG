@@ -1,0 +1,13 @@
+2023/08/05-20:16:13.326 a403 Reusing MANIFEST /Users/rodrigogarcia/Library/Application Support/Vivaldi/Default/IndexedDB/https_app.recall.wiki_0.indexeddb.leveldb/MANIFEST-000001
+2023/08/05-20:16:13.326 a403 Recovering log #8
+2023/08/05-20:16:13.326 a403 Reusing old log /Users/rodrigogarcia/Library/Application Support/Vivaldi/Default/IndexedDB/https_app.recall.wiki_0.indexeddb.leveldb/000008.log 
+2023/08/05-20:16:13.516 f203 Level-0 table #14: started
+2023/08/05-20:16:13.522 f203 Level-0 table #14: 725 bytes OK
+2023/08/05-20:16:13.534 f203 Delete type=0 #8
+2023/08/05-20:16:13.534 a403 Manual compaction at level-0 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/08/05-20:16:35.338 9f03 Compacting 1@1 + 1@2 files
+2023/08/05-20:16:35.344 9f03 Generated table #15@1: 83 keys, 5657 bytes
+2023/08/05-20:16:35.344 9f03 Compacted 1@1 + 1@2 files => 5657 bytes
+2023/08/05-20:16:35.354 9f03 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/08/05-20:16:35.354 9f03 Delete type=2 #14
+2023/08/05-20:16:35.354 9f03 Delete type=2 #11

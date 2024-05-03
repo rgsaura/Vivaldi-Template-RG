@@ -1,0 +1,6 @@
+2023/09/21-13:52:18.853 8503 Creating DB /Users/rodrigogarcia/Library/Application Support/Vivaldi/Default/IndexedDB/https_free.measuredcollective.com_0.indexeddb.leveldb since it was missing.
+2023/09/21-13:52:18.870 8503 Reusing MANIFEST /Users/rodrigogarcia/Library/Application Support/Vivaldi/Default/IndexedDB/https_free.measuredcollective.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/09/21-15:21:53.190 f203 Level-0 table #5: started
+2023/09/21-15:21:53.194 f203 Level-0 table #5: 1158 bytes OK
+2023/09/21-15:21:53.203 f203 Delete type=0 #3
+2023/09/21-15:21:53.204 f203 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

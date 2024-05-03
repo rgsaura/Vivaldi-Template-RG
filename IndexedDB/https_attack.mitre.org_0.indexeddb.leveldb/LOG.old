@@ -1,0 +1,15 @@
+2023/09/17-19:11:37.198 8403 Reusing MANIFEST /Users/rodrigogarcia/Library/Application Support/Vivaldi/Default/IndexedDB/https_attack.mitre.org_0.indexeddb.leveldb/MANIFEST-000144
+2023/09/17-19:11:37.199 8403 Recovering log #118
+2023/09/17-19:11:37.199 8403 Reusing old log /Users/rodrigogarcia/Library/Application Support/Vivaldi/Default/IndexedDB/https_attack.mitre.org_0.indexeddb.leveldb/000118.log 
+2023/09/17-19:12:48.817 a203 Level-0 table #147: started
+2023/09/17-19:12:48.821 a203 Level-0 table #147: 209 bytes OK
+2023/09/17-19:12:48.831 a203 Delete type=0 #118
+2023/09/17-19:12:48.831 a203 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/09/17-19:12:48.831 a203 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x06' @ 71570 : 1
+2023/09/17-19:12:48.831 a203 Compacting 1@1 + 1@2 files
+2023/09/17-19:12:48.850 a203 Generated table #148@1: 560 keys, 2124354 bytes
+2023/09/17-19:12:48.850 a203 Compacted 1@1 + 1@2 files => 2124354 bytes
+2023/09/17-19:12:48.858 a203 compacted to: files[ 0 0 18 0 0 0 0 ]
+2023/09/17-19:12:48.859 a203 Delete type=2 #129
+2023/09/17-19:12:48.859 a203 Delete type=2 #147
+2023/09/17-19:12:48.859 a203 Manual compaction at level-1 from '\x00\x00\x00\x00\x06' @ 71570 : 1 .. (end); will stop at (end)

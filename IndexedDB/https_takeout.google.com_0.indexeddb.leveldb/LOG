@@ -1,0 +1,6 @@
+2023/08/03-17:46:41.195 b603 Creating DB /Users/rodrigogarcia/Library/Application Support/Vivaldi/Default/IndexedDB/https_takeout.google.com_0.indexeddb.leveldb since it was missing.
+2023/08/03-17:46:41.207 b603 Reusing MANIFEST /Users/rodrigogarcia/Library/Application Support/Vivaldi/Default/IndexedDB/https_takeout.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/08/03-17:46:41.348 b603 Level-0 table #5: started
+2023/08/03-17:46:41.359 b603 Level-0 table #5: 1193 bytes OK
+2023/08/03-17:46:41.369 b603 Delete type=0 #3
+2023/08/03-17:46:41.370 8403 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

@@ -1,0 +1,13 @@
+2023/09/23-02:34:59.084 a503 Reusing MANIFEST /Users/rodrigogarcia/Library/Application Support/Vivaldi/Default/IndexedDB/https_app.element.io_0.indexeddb.leveldb/MANIFEST-000001
+2023/09/23-02:34:59.085 a503 Recovering log #22
+2023/09/23-02:34:59.092 a503 Reusing old log /Users/rodrigogarcia/Library/Application Support/Vivaldi/Default/IndexedDB/https_app.element.io_0.indexeddb.leveldb/000022.log 
+2023/09/23-02:34:59.093 a503 Delete type=2 #21
+2023/09/23-15:56:27.963 a303 Level-0 table #27: started
+2023/09/23-15:56:27.985 a303 Level-0 table #27: 1104536 bytes OK
+2023/09/23-15:56:27.993 a303 Delete type=0 #22
+2023/09/23-16:07:27.970 a303 Compacting 1@1 + 1@2 files
+2023/09/23-16:07:27.985 a303 Generated table #28@1: 2221 keys, 272521 bytes
+2023/09/23-16:07:27.985 a303 Compacted 1@1 + 1@2 files => 272521 bytes
+2023/09/23-16:07:27.993 a303 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/09/23-16:07:27.993 a303 Delete type=2 #27
+2023/09/23-16:07:27.993 a303 Delete type=2 #24

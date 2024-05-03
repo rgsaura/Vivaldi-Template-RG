@@ -1,0 +1,6 @@
+2023/10/02-15:03:54.709 8603 Creating DB /Users/rodrigogarcia/Library/Application Support/Vivaldi/Default/IndexedDB/https_www.cnet.com_0.indexeddb.leveldb since it was missing.
+2023/10/02-15:03:54.726 8603 Reusing MANIFEST /Users/rodrigogarcia/Library/Application Support/Vivaldi/Default/IndexedDB/https_www.cnet.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/10/02-15:04:06.224 b703 Level-0 table #5: started
+2023/10/02-15:04:06.232 b703 Level-0 table #5: 1133 bytes OK
+2023/10/02-15:04:06.243 b703 Delete type=0 #3
+2023/10/02-15:04:06.243 b703 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

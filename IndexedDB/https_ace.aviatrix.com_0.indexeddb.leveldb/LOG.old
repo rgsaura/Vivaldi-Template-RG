@@ -1,0 +1,34 @@
+2023/09/23-16:31:12.454 a303 Reusing MANIFEST /Users/rodrigogarcia/Library/Application Support/Vivaldi/Default/IndexedDB/https_ace.aviatrix.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/09/23-16:31:12.454 a303 Recovering log #78
+2023/09/23-16:31:12.454 a303 Reusing old log /Users/rodrigogarcia/Library/Application Support/Vivaldi/Default/IndexedDB/https_ace.aviatrix.com_0.indexeddb.leveldb/000078.log 
+2023/09/23-16:31:12.454 a303 Delete type=2 #76
+2023/09/23-16:31:12.948 b703 Level-0 table #83: started
+2023/09/23-16:31:12.955 b703 Level-0 table #83: 545 bytes OK
+2023/09/23-16:31:12.965 b703 Delete type=0 #78
+2023/09/23-16:31:12.966 a303 Manual compaction at level-0 from '\x00\x15\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x16\x00\x00\x00' @ 0 : 0; will stop at '\x00\x15\x00\x00\x05' @ 387 : 1
+2023/09/23-16:31:12.966 a303 Compacting 1@0 + 1@1 files
+2023/09/23-16:31:12.970 a303 Generated table #84@0: 26 keys, 1046 bytes
+2023/09/23-16:31:12.970 a303 Compacted 1@0 + 1@1 files => 1046 bytes
+2023/09/23-16:31:12.979 a303 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/09/23-16:31:12.979 a303 Delete type=2 #83
+2023/09/23-16:31:12.980 a303 Manual compaction at level-0 from '\x00\x15\x00\x00\x05' @ 387 : 1 .. '\x00\x16\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/09/23-16:31:14.965 a303 Level-0 table #86: started
+2023/09/23-16:31:14.970 a303 Level-0 table #86: 231 bytes OK
+2023/09/23-16:31:14.981 a303 Delete type=0 #82
+2023/09/23-16:31:14.981 a303 Delete type=2 #80
+2023/09/23-16:31:14.982 a303 Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x00\x00\x002\x02\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 401 : 0
+2023/09/23-16:31:14.982 a303 Compacting 1@0 + 1@1 files
+2023/09/23-16:31:14.987 a303 Generated table #87@0: 27 keys, 1036 bytes
+2023/09/23-16:31:14.987 a303 Compacted 1@0 + 1@1 files => 1036 bytes
+2023/09/23-16:31:14.995 a303 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/09/23-16:31:14.995 a303 Delete type=2 #86
+2023/09/23-16:31:14.995 a303 Delete type=2 #84
+2023/09/23-16:31:14.996 a303 Manual compaction at level-0 from '\x00\x00\x00\x002\x02\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 401 : 0 .. (end); will stop at (end)
+2023/09/23-16:31:14.996 a303 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\xc9\x1a\x00h\x00t\x00t\x00p\x00s\x00_\x00a\x00c\x00e\x00.\x00a\x00v\x00i\x00a\x00t\x00r\x00i\x00x\x00.\x00c\x00o\x00m\x00_\x000\x00@\x001\x1c\x00m\x00o\x00d\x00e\x00r\x00n\x00i\x00z\x00r\x00-\x000\x00.\x009\x008\x006\x006\x003\x000\x008\x002\x005\x006\x004\x004\x003\x007\x005\x007' @ 163 : 0
+2023/09/23-16:31:14.996 a303 Compacting 1@1 + 1@2 files
+2023/09/23-16:31:15.001 a303 Generated table #88@1: 5 keys, 237 bytes
+2023/09/23-16:31:15.001 a303 Compacted 1@1 + 1@2 files => 237 bytes
+2023/09/23-16:31:15.009 a303 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/09/23-16:31:15.009 a303 Delete type=2 #5
+2023/09/23-16:31:15.009 a303 Delete type=2 #87
+2023/09/23-16:31:15.009 a303 Manual compaction at level-1 from '\x00\x00\x00\x00\xc9\x1a\x00h\x00t\x00t\x00p\x00s\x00_\x00a\x00c\x00e\x00.\x00a\x00v\x00i\x00a\x00t\x00r\x00i\x00x\x00.\x00c\x00o\x00m\x00_\x000\x00@\x001\x1c\x00m\x00o\x00d\x00e\x00r\x00n\x00i\x00z\x00r\x00-\x000\x00.\x009\x008\x006\x006\x003\x000\x008\x002\x005\x006\x004\x004\x003\x007\x005\x007' @ 163 : 0 .. (end); will stop at (end)

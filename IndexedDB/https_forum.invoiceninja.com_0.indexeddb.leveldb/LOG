@@ -1,0 +1,6 @@
+2023/08/25-00:50:00.340 8703 Creating DB /Users/rodrigogarcia/Library/Application Support/Vivaldi/Default/IndexedDB/https_forum.invoiceninja.com_0.indexeddb.leveldb since it was missing.
+2023/08/25-00:50:00.355 8703 Reusing MANIFEST /Users/rodrigogarcia/Library/Application Support/Vivaldi/Default/IndexedDB/https_forum.invoiceninja.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/08/25-00:50:41.490 a203 Level-0 table #5: started
+2023/08/25-00:50:41.497 a203 Level-0 table #5: 60553 bytes OK
+2023/08/25-00:50:41.506 a203 Delete type=0 #3
+2023/08/25-00:50:41.507 a203 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

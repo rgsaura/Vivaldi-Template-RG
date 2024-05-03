@@ -1,0 +1,24 @@
+2024/05/03-10:48:30.720 3003 Reusing MANIFEST /Users/rodrigogarcia/Library/Application Support/Vivaldi/Profile 8/Local Storage/leveldb/MANIFEST-059821
+2024/05/03-10:48:30.723 3003 Recovering log #81901
+2024/05/03-10:48:30.723 3003 Reusing old log /Users/rodrigogarcia/Library/Application Support/Vivaldi/Profile 8/Local Storage/leveldb/081901.log 
+2024/05/03-10:50:36.161 3003 Level-0 table #81905: started
+2024/05/03-10:50:36.168 3003 Level-0 table #81905: 42908 bytes OK
+2024/05/03-10:50:36.203 3003 Delete type=0 #81901
+2024/05/03-10:50:36.204 3003 Compacting 4@0 + 4@1 files
+2024/05/03-10:50:36.240 3003 Generated table #81906@0: 1575 keys, 3803548 bytes
+2024/05/03-10:50:36.271 3003 Generated table #81907@0: 2635 keys, 4088603 bytes
+2024/05/03-10:50:36.286 3003 Generated table #81908@0: 3717 keys, 1332959 bytes
+2024/05/03-10:50:36.295 3003 Generated table #81909@0: 616 keys, 663637 bytes
+2024/05/03-10:50:36.295 3003 Compacted 4@0 + 4@1 files => 9888747 bytes
+2024/05/03-10:50:36.304 3003 compacted to: files[ 0 4 11 0 0 0 0 ]
+2024/05/03-10:50:36.305 3003 Delete type=2 #81898
+2024/05/03-10:50:36.305 3003 Delete type=2 #81905
+2024/05/03-10:50:36.305 3003 Delete type=2 #81900
+2024/05/03-10:50:36.305 3003 Delete type=2 #81902
+2024/05/03-10:50:36.305 3003 Delete type=2 #81893
+2024/05/03-10:50:36.305 3003 Delete type=2 #81896
+2024/05/03-10:50:36.305 3003 Delete type=2 #81895
+2024/05/03-10:50:36.305 3003 Delete type=2 #81894
+2024/05/03-10:55:59.136 3003 Level-0 table #81911: started
+2024/05/03-10:55:59.142 3003 Level-0 table #81911: 67668 bytes OK
+2024/05/03-10:55:59.151 3003 Delete type=0 #81904
